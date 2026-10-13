@@ -21,5 +21,7 @@ Removing names does not guarantee anonymity. Combinations of attributes such as 
 ## Supervisor review
 Review note recorded 13 October 2026, 15:20 IST (+05:30): “The reduced dataset appears anonymous, but the quasi-identifier combinations need explicit testing before publication.”
 
+Review outcome: publication remains on hold until the quasi-identifier risks are tested.
+
 ## Limitations
 Synthetic tests can demonstrate potential weaknesses but do not establish that a real-world dataset is safe. Publication should be withheld until identified risks are reviewed.
