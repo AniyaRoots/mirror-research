@@ -13,19 +13,16 @@ Some materials referenced in the documentation may no longer be present in the c
 ```text
 .
 ├── README.md
+├── relay_manifest.json
 ├── research/
 │   ├── methodology.md
-│   ├── mirror_pipeline_v1.svg
+│   ├── pipeline.svg
 │   └── anonymization_tests.csv
-├── notes/
-│   └── research_notes.txt
-├── reports/
-│   └── validation_summary.md
-└── backups/
-    └── notes_manifest.json
+└── notes/
+    └── research_notes.txt
 ```
 
-*Note: The structure above describes the research project's intended organization. Individual files may differ between repository revisions.*
+*Note: This tree describes the current revision. Earlier revisions may contain additional files that are no longer present.*
 
 ## Research Components
 
@@ -35,7 +32,7 @@ Documents the anonymization approach, design assumptions, and review considerati
 
 ### Pipeline Diagram
 
-The pipeline diagram illustrates the data processing workflow and its major stages.
+The available pipeline diagram illustrates the data processing workflow and its major stages. Other related materials may exist outside this repository.
 
 ### Anonymization Tests
 
