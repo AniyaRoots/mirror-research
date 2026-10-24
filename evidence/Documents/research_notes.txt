@@ -7,11 +7,6 @@ Thesis_Final.pdf will not open. I broke it on purpose, but the text
 inside it is still there if you look at the raw bytes (a hex editor, or
 anything that prints readable strings from a binary file).
 
-I did not leave it as plain text. Every letter and every digit was
-moved 7 AHEAD.
-To read it, move every letter and digit back 7.
-Do this for the whole text, not just the words you can already spot.
-
 The decoded text gives the password for Thesis_Final_v2.pdf.
 Use it to open v2. The details are in there.
 
